@@ -1,0 +1,14 @@
+a3616603f35fa56657a9b6c388b85255 *DESCRIPTION
+ad590b2045de7605e1d5c444eba8535a *NAMESPACE
+aed1fadc5806429eae561f27b0140e05 *R/neptune.R
+d6400348b1afd895f737977d3b21892f *man/append_tag.Rd
+9846d89151e7b0e9d7375cc1bf4ffb12 *man/create_experiment.Rd
+d08f8ac050ad37377de6866e94cd8bb1 *man/get_neptune.Rd
+eeb173f0f44d3952468804bfcd8e700c *man/init_neptune.Rd
+1326f76af8b2b156038b7c292ba1af53 *man/install_neptune.Rd
+e8b69ddc6c712a02ac45527c604a5ad4 *man/log_artifact.Rd
+f9a9e664e5cfcee63dc656c1c7747f25 *man/log_image.Rd
+b5d32853467c6d6a974f264a079120a6 *man/log_metric.Rd
+fa647122c05ae116f5d0cb1ad652036b *man/set_neptune_token.Rd
+639226aa38a036319c39a668fb83bf7e *man/set_property.Rd
+7d828641d227d3cb2812cd8c9c25bc62 *man/stop_experiment.Rd
