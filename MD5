@@ -1,6 +1,6 @@
-ad392b950cd33ad01e82b8bc7d697af6 *DESCRIPTION
+2c99138cec0a52b7673419b55af97813 *DESCRIPTION
 86d3f3a95c324c9479bd8986968f4327 *LICENSE
-55818afd97ddd7bc0c45a03c6f8d9ab5 *NAMESPACE
+8f0412fbc8b1f07bcd7bdf9dccda4f90 *NAMESPACE
 f511a2cf0b64c48983176fc843dcd328 *R/check_handler.R
 1dece46114806cdd77f0037b56db9c35 *R/check_handler_or_run.R
 89a98475cc52850085ab2f0d0dab7ba3 *R/check_run.R
@@ -23,8 +23,8 @@ c6982ab61653e57c8c1202613a2ef134 *R/neptune_fetch_values.R
 65c84e1ba9d7359c8348290f3882de86 *R/neptune_file_as_image.R
 59f1a1cb432c49b00c1a08a011a0908f *R/neptune_get_run_url.R
 261184be70ac1d4047453d1714accc41 *R/neptune_get_structure.R
-be4dc9b2bbbce2a15b02bbb156ddb9f5 *R/neptune_init.R
-7cf3975ee9149b09df662b802c8cece2 *R/neptune_install.R
+797036e70191f83e3d857378aab3d8b9 *R/neptune_init.R
+050282da7c6a3929ee61ac2f1cdea70a *R/neptune_install.R
 57e5914b4024380495876e2cd8e0748b *R/neptune_log.R
 c9af8d02d24e224c1af1d4505b6aa9a9 *R/neptune_pop.R
 51970ff82ac60a873bc6a01f36f37115 *R/neptune_print_structure.R
@@ -36,11 +36,11 @@ b3fd51faef88d27ac0076fecd1867372 *R/neptune_track_files.R
 f19a3ee36e7abe30746233d6bfe20fc5 *R/neptune_upload.R
 3f9244e85cb8de32b5d5845ce45c711a *R/neptune_upload_files.R
 e3d169e5fdc86267b89d672a0165e9da *R/neptune_wait.R
-1ef4072f7b0aa591c1aed66f323c8845 *R/parse_neptune_version.R
+9cb2de459b47a99bd1b12c9760e4aa8a *R/parse_neptune_version.R
 d757bdb16aaf0f1f44e3bbfc0cef3d70 *R/process_value.R
 368a1aa53d736f5370020fe41da645ee *R/z[.neptune.new.run.Run.R
 72415e1cee14a3dc4b80f51bba886f2c *R/z[_-.neptune.new.run.Run.R
-08641bf1f86fa78caebdc0b02714452a *README.md
+2317962a737eacd036d8c2e02be8fd9d *README.md
 f8e461d67e8373b22099d810153b7dac *man/neptune_add.Rd
 0a345a74706c30d8414392c62cf7971c *man/neptune_assign.Rd
 3d2a8a7bb7a45217f4befec1c181280e *man/neptune_clear.Rd
